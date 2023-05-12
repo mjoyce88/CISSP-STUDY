@@ -1,5 +1,3 @@
-Certainly! Here are 12 CISSP practice questions on Risk Management Concepts:
-
 1. **Question**: What is the primary goal of risk management?
    - [ ] A) Eliminate all risks
    - [ ] B) Accept all risks
@@ -65,6 +63,3 @@ Certainly! Here are 12 CISSP practice questions on Risk Management Concepts:
     - [ ] B) Risk transference
     - [ ] C) Risk mitigation
     - [ ] D) Risk acceptance
-
-12. **Question**: What is the purpose of a risk mitigation plan?
-    - [ ]
