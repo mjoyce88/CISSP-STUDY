@@ -1,5 +1,3 @@
-Certainly! Here are definitions of the common topics from the CISSP exam in markdown format:
-
 ## Security and Risk Management
 
 **Security governance and policies**: The process of establishing and communicating security policies, standards, procedures, and guidelines within an organization. It involves developing a security governance framework and ensuring compliance with relevant laws, regulations, and industry standards.
