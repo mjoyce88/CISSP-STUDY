@@ -71,4 +71,3 @@
     - D. Data retention policies
 
 13. What is the primary purpose of security standards?
-    - A. To provide guidance on how to protect information
